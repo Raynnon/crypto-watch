@@ -26,7 +26,7 @@ export default function Layout({ children, page }) {
           <Image
             src="/bitcoin.jpg"
             alt="bitcoin"
-            width="1000"
+            width="500"
             height="100"
             className="rounded-3xl object-cover"
             quality={10}
@@ -38,7 +38,7 @@ export default function Layout({ children, page }) {
         <Image
           src="/crypto.jpg"
           alt="crypto"
-          width="1000"
+          width="1500"
           height="100"
           className="rounded-3xl object-cover"
           quality={50}
